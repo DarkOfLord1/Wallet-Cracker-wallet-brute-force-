@@ -12,7 +12,7 @@ Adjustable speed.
 A system that automatically sends you the wallets found.
 The ability to select the networks where the wallet will be searched
 Windows And Macos Computers
- video_2023-12-09_10-31-41.mp4 
+  
 Dm to buy
 
 https://t.me/wallethunter1
