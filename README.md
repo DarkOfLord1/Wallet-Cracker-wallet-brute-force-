@@ -13,7 +13,7 @@ A system that automatically sends you the wallets found.
 The ability to select the networks where the wallet will be searched
 Windows And Macos Computers
   
-Dm to buy
+Dm to buy.
 
 https://t.me/wallethunter1
 
