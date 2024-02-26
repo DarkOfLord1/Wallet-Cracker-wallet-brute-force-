@@ -1,6 +1,6 @@
 * .https://github.com/DarkOfLord1/Wallet-Cracker-wallet-brute-force-/assets/153342408/f70336d6-3967-4491-925a-babf5805c4bc
 
-Hello Everyone,
+Hello Everyone,..
 
 We have released a new crypto wallet brute force called Wallet Hunter, which has a much faster speed and a higher probability of finding more.
 
